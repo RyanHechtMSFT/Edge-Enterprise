@@ -1,9 +1,9 @@
 ---
 title: "Microsoft Edge Lifecycle"
 ms.author: srugh
-author: srugh
-manager: seanlynd
-ms.date: 06/29/2021
+author: RyanHechtMSFT
+manager: azeigler
+ms.date: 07/15/2021
 audience: ITPro
 ms.topic: conceptual
 ms.prod: microsoft-edge
@@ -21,7 +21,7 @@ This article describes the lifecycle policy that applies to Microsoft Edge.
 
 
 > [!NOTE]
-> Starting with Stable channel version 94, Microsoft Edge is moving to a 4-week major release cycle cadence. However, we recognize that enterprise customers who manage complex environments need more time to plan and test Microsoft Edge updates. To help our enterprise customers who need an extended timeline to manage updates, Microsoft Edge will offer an **Extended Stable option aligned to a longer, 8-week major release cycle;** this option will only be available for customers with managed environments.
+> Starting with Stable channel version 94, Microsoft Edge is moving to a 4-week major release cycle cadence. However, we recognize that enterprise customers who manage complex environments need more time to plan and test Microsoft Edge updates. To help our enterprise customers who need an extended timeline to manage updates, Microsoft Edge will offer an **Extended Stable option aligned to a longer, 8-week major release cycle;** this option will only be available for customers with managed environments. [Refer to our announcement blog post](https://blogs.windows.com/msedgedev/2021/07/15/opt-in-extended-stable-release-cycle/)
 
 ## Overview of the lifecycle policy for Microsoft Edge
 
